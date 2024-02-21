@@ -1,4 +1,4 @@
-- # 👋 Hi there, I'm Arief Fadhillah Rochmala
+- # 👋 Hi there, I'm Arief Fadhillah Rochmala - aka Fadhil
 
 - |Flutter|PHP|HTML|CODEIGNITER4|
 
