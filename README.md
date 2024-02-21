@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arief Fadhillah Rochmala AKA Fadhil</h1>
 <h3 align="center">Learning By Doing ✍️</h3>
 
-- 🔭 I am currently studying at **Binainsani University**
+- 👨🏻‍🎓 I am currently studying at **Binainsani University**
 
 - 📫 How to reach me **arief.fadhillah.r@gmail.com**
 
